@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "<p>Hello world!</p>
+    return "<p>Wat is dit leuk om te doen zeg!</p>
